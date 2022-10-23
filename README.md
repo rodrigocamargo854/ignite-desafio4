@@ -2,7 +2,6 @@ Deasfio Ignite IV 💜 |  feito com Chakra UI e  NEXTJS
 
 ##UPLOAD DE ARQUIVOS
 
-![desafio4Gif](https://user-images.githubusercontent.com/47711649/197413588-32296603-cfbb-4e59-a619-5168835fe55c.gif)
 
 ## 📚 Informações sobre o projeto
 
