@@ -116,19 +116,16 @@ export function FormAddImage({ closeModal }: FormAddImageProps): JSX.Element {
           setError={setError}
           trigger={trigger}
           {...register('image', formValidations.image)}
-          error={errors.image}
         />
 
         <TextInput
           placeholder="Título da imagem..."
           {...register('title', formValidations.title)}
-          error={errors.title}
         />
 
         <TextInput
           placeholder="Descrição da imagem..."
           {...register('description', formValidations.description)}
-          error={errors.description}
         />
       </Stack>
 
